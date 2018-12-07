@@ -350,12 +350,14 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/material/card
+@angular/material/toolbar
 
 @angular/animations
 MIT
 
 @angular/material/button
+
+@angular/material/card
 
 @angular/material/icon
 
@@ -365,8 +367,6 @@ MIT
 MIT
 
 @angular/material/list
-
-@angular/material/toolbar
 
 @angular/material/sidenav
 
@@ -381,6 +381,8 @@ MIT
 @angular/material/grid-list
 
 @angular/material/progress-spinner
+
+@angular/material/table
 
 zone.js
 MIT
